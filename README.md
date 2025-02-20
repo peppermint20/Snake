@@ -1,4 +1,6 @@
 # Snake
+
+
 ## TODOS
 - [ ] Add replay feature
 - [ ] Display score
@@ -25,3 +27,10 @@
 
 ## Useful tools that helped
 - https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html
+
+## Running this
+- You will need SFML 3.0, imgui-sfml, compiler
+- Follow instructions on SFML 3.0 (https://www.sfml-dev.org/) for your machine
+- Follow instructions for imgui-sfml installation
+# Windows
+- Visual Studio 2019, or GCC, CLANG etc
