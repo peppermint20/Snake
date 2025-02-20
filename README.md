@@ -1,5 +1,5 @@
 # Snake
-
+![image](https://github.com/user-attachments/assets/3b1c47e9-72f2-41a0-89b5-2189e123e457)
 
 ## TODOS
 - [ ] Add replay feature
